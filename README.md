@@ -1,1 +1,1 @@
-
+Provides a User-Friendly Interface through which clients can communicate with the moderators. Also provides an Back-end Admin Panel through which Administrator can change the basic style of the site by using GUI based enviroment.
