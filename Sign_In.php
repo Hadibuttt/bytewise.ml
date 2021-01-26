@@ -106,7 +106,7 @@
                                     else
                                     {
                                       echo '<script language="javascript">';
-                                      echo 'alert("Incorrect UserID or Password!")';
+                                      echo 'alert("Incorrect UserID or Password! Please Try Again Later!")';
                                       echo '</script>';
                                       exit;
                                     }
