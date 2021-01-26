@@ -192,7 +192,7 @@ include("dH.php");
                    <p>2019</p>
                  </div>
                  <div class="col-md-6">
-                   <p class="small mt">TOTAL SPEND</p>
+                   <p class="small mt">TOTAL SPENT</p>
                    <p>$ 476</p>
                  </div>
                </div>
@@ -325,7 +325,7 @@ include("dH.php");
              <p>
                <muted>2 Minutes Ago</muted>
                <br/>
-               <a href="" style="color:firebrick;">Kumar Sonu</a> subscribed to your designs.<br/>
+               <a href="" style="color:firebrick;">Usman Niazi</a> subscribed to your designs.<br/>
              </p>
            </div>
          </div>
