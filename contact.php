@@ -23,7 +23,7 @@ include("Header.php");
                   </div>
                 <div class="margin-left-70 margin-s-left-0 margin-bottom">
                   <h3 class="margin-bottom-0">Company Address</h3>
-                  <p>Jinnah Avenue Street 7<br>
+                  <p>IJP Jinnah Road 67/2 Aveneu<br>
                   Islamabad / Pakistan / Asia
                   </p>               
                 </div>
