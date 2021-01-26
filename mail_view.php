@@ -62,7 +62,7 @@ while($row=$result->fetch_assoc())
                   </li>
                   <li>
                     <a href="">
-                        <img src="Cropped-Pics/Ubaid.png" class="img-circle" width="20">Ubaid
+                        <img src="Cropped-Pics/Ubaid.png" class="img-circle" width="20">Umair
                         <p><span class="label label-danger"> Busy</span></p>
                       </a>
                   </li>
