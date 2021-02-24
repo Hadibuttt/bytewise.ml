@@ -41,7 +41,7 @@
           <input type="password" class="form-control" required="" name="Password" placeholder="Password">
           
           <label class="checkbox">
-          <span>&nbsp &nbsp &nbsp &nbsp</span> <input type="checkbox" value="remember-me"> Remember me
+          <span>&nbsp &nbsp &nbsp &nbsp</span> <input type="checkbox" value="remember-me"> Remember Me
             <span class="pull-right">
             <a data-toggle="modal" href="login.html#myModal"> Forgot Password?</a>
             </span>
@@ -60,7 +60,7 @@
                 <h4 class="modal-title">Forgot Password ?</h4>
               </div>
               <div class="modal-body">
-                <p>Enter your e-mail address below to reset your password.</p>
+                <p>Enter your E-mail address below to reset your password.</p>
                 <input type="text" name="email" placeholder="Email" autocomplete="off" class="form-control placeholder-no-fix">
               </div>
               <div class="modal-footer">
@@ -106,7 +106,7 @@
                                     else
                                     {
                                       echo '<script language="javascript">';
-                                      echo 'alert("Incorrect UserID or Password! Please Try Again Later!")';
+                                      echo 'alert("Incorrect UserID or Password! Please Try Again!")';
                                       echo '</script>';
                                       exit;
                                     }
