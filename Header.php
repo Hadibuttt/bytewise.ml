@@ -51,7 +51,7 @@
                 <li><a>Graphics</a>
                 <ul>
                     <li><a>Linear Graphics</a></li>
-                    <li><a>Animated Graphics</a></li>
+                    <li><a>Polar Graphics</a></li>
                   </ul>
               </li>
               <li><a>Content Writing</a></li>
